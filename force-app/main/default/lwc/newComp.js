@@ -64,3 +64,6 @@ const newArr = [11, 20, 30, 40, 50, 60];
 const everyMethodArr = newArr.every((currentElement, index, newArr) => currentElement > 10);
 console.log(everyMethodArr);
 //new changes added. not yet pulled from github
+/*check commits from different user
+dcfgvhbjknm
+sd*/
